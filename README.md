@@ -1,7 +1,6 @@
 # Atividade2-Cloves
 Pyton
 
-
 def merge_vetores(vetor1, vetor2):
     tamanho1 = len(vetor1)
     tamanho2 = len(vetor2)
@@ -30,4 +29,14 @@ vetor1 = [1, 3, 5, 7, 9]
 vetor2 = [2, 4, 6, 8, 10]
 
 resultado = merge_vetores(vetor1, vetor2)
+
 print(resultado)  # Output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+
+
+
+
+
